@@ -34,6 +34,7 @@ cd path/to/tictactoe
 python tic_tac_toe.py
 
 ##screenshots
+
 Here's a preview of the game running in the terminal:
 ![image alt](https://github.com/nikhithavadlamudi-cyber/tictactoe/blob/6af3aea0a893036d4794d0d1e1e476708ec79df2/WhatsApp%20Image%202025-05-26%20at%202.13.26%20PM.jpeg)
 
